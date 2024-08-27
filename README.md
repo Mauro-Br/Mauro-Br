@@ -1,6 +1,6 @@
 ### Olá!👋 Eu sou Mauro Brasil.
    
-- 🔭 Cursando Ciência da Computação pela FUMEC
+- 🔭 Cursando Sistema de Informação pela PUC MG
 - 📖 Conhecimento em HTML , CSS , JS e JAVA
 
 <div align="center">
