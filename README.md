@@ -1,7 +1,7 @@
 ### Olá!👋 Eu sou Mauro Brasil.
    
 - 🔭 Cursando Ciência da Computação pela FUMEC
-- 📖 Conhecimento em HTML e CSS
+- 📖 Conhecimento em HTML , CSS , JS e JAVA
 
 <div align="center">
   <a href="https://github.com/Mauro-Br">
