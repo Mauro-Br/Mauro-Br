@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- Gráfico de atividade -->
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mauro-Br&theme=react-dark&hide_border=true)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mauro-Br&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 <div style="display: inline_block"><br>
