@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/Mauro-Br">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-Br&layout=compact&langs_count=7&theme=dark"/>
-   <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Mauro-Br&layout=compact&langs_count=7&theme=dark](https://activity-graph.herokuapp.com/graph?username=Mauro-Br&theme=react-dark&hide_border=true)"/>
+   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mauro-Br&theme=react-dark&hide_border=true)
 </div>
 
 <div align="center">
